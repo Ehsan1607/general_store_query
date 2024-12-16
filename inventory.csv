@@ -1,0 +1,504 @@
+department,item,price,availability
+grocery,banana,0.79,in stock
+grocery,milk,2.49,out of stock
+grocery,apple,0.99,in stock
+grocery,orange,0.59,in stock
+grocery,bread,1.79,out of stock
+grocery,cheese,3.39,in stock
+grocery,butter,2.29,in stock
+grocery,yogurt,1.29,in stock
+grocery,chicken,5.49,out of stock
+grocery,fish,6.99,in stock
+grocery,grapes,2.99,in stock
+grocery,watermelon,4.99,in stock
+grocery,tomato,1.89,out of stock
+grocery,onion,1.29,in stock
+grocery,potato,0.89,in stock
+grocery,carrot,0.69,in stock
+grocery,cucumber,0.99,in stock
+grocery,spinach,1.49,in stock
+grocery,lettuce,1.99,out of stock
+grocery,beetroot,1.79,in stock
+electronics,smartphone,699.99,in stock
+electronics,laptop,799.99,in stock
+electronics,tablet,599.99,out of stock
+electronics,smartwatch,199.99,in stock
+electronics,headphones,99.99,out of stock
+electronics,tv,599.99,in stock
+electronics,camera,399.99,in stock
+electronics,speaker,129.99,in stock
+electronics,mouse,29.99,in stock
+electronics,keyboard,49.99,out of stock
+electronics,monitor,149.99,in stock
+electronics,printer,89.99,in stock
+electronics,router,59.99,out of stock
+electronics,charger,19.99,in stock
+electronics,earbuds,39.99,in stock
+electronics,projector,249.99,out of stock
+electronics,webcam,59.99,in stock
+electronics,hard drive,79.99,in stock
+electronics,ssd,109.99,in stock
+electronics,gaming console,299.99,in stock
+clothing,jeans,29.99,in stock
+clothing,t-shirt,14.99,in stock
+clothing,jacket,49.99,out of stock
+clothing,dress,39.99,in stock
+clothing,socks,4.99,in stock
+clothing,scarf,9.99,out of stock
+clothing,hat,8.99,in stock
+clothing,sweater,24.99,in stock
+clothing,shorts,19.99,in stock
+clothing,skirt,17.99,out of stock
+clothing,blazer,59.99,in stock
+clothing,coat,69.99,in stock
+clothing,gloves,9.99,out of stock
+clothing,tie,14.99,in stock
+clothing,belt,19.99,in stock
+clothing,cap,6.99,in stock
+clothing,boots,49.99,out of stock
+clothing,slippers,14.99,in stock
+clothing,hoodie,29.99,in stock
+clothing,leggings,24.99,in stock
+stationery,notebook,2.99,in stock
+stationery,pen,0.99,in stock
+stationery,pencil,0.49,in stock
+stationery,eraser,0.29,in stock
+stationery,ruler,1.29,out of stock
+stationery,stapler,3.99,in stock
+stationery,glue,1.49,in stock
+stationery,scissors,2.49,in stock
+stationery,markers,4.99,out of stock
+stationery,folder,1.99,in stock
+stationery,highlighter,3.49,in stock
+stationery,paper clips,0.99,in stock
+stationery,tape,1.99,in stock
+stationery,envelopes,2.99,out of stock
+stationery,binder,4.99,in stock
+stationery,calculator,9.99,in stock
+stationery,staples,1.49,in stock
+stationery,drawing pad,6.99,out of stock
+stationery,clipboard,3.99,in stock
+stationery,compass,4.99,in stock
+home decor,vase,9.99,in stock
+home decor,painting,49.99,out of stock
+home decor,mirror,29.99,in stock
+home decor,clock,19.99,in stock
+home decor,lamp,24.99,in stock
+home decor,carpet,89.99,out of stock
+home decor,sofa,399.99,in stock
+home decor,chair,99.99,in stock
+home decor,table,199.99,out of stock
+home decor,curtains,14.99,in stock
+home decor,pillow,9.99,in stock
+home decor,rug,49.99,in stock
+home decor,frame,19.99,out of stock
+home decor,candle,7.99,in stock
+home decor,bookshelf,129.99,in stock
+home decor,planter,19.99,in stock
+home decor,ottoman,69.99,in stock
+home decor,desk,149.99,out of stock
+home decor,drawer,59.99,in stock
+home decor,shelf,39.99,in stock
+toys,doll,14.99,in stock
+toys,car,9.99,in stock
+toys,lego,29.99,in stock
+toys,robot,49.99,out of stock
+toys,ball,4.99,in stock
+toys,puzzle,7.99,in stock
+toys,drone,99.99,in stock
+toys,kite,12.99,in stock
+toys,train set,39.99,out of stock
+toys,playhouse,149.99,in stock
+toys,action figure,19.99,in stock
+toys,board game,24.99,in stock
+toys,building blocks,14.99,in stock
+toys,remote control car,49.99,in stock
+toys,stuffed animal,12.99,out of stock
+toys,yo-yo,4.99,in stock
+toys,marbles,3.99,in stock
+toys,slime kit,8.99,in stock
+toys,jigsaw puzzle,14.99,out of stock
+toys,trampoline,199.99,in stock
+books,fiction book,8.99,in stock
+books,non-fiction book,12.99,in stock
+books,magazine,4.99,in stock
+books,comic book,6.99,out of stock
+books,notebook,3.99,in stock
+books,textbook,29.99,out of stock
+books,guidebook,9.99,in stock
+books,dictionary,14.99,in stock
+books,journal,7.99,in stock
+books,e-book reader,99.99,in stock
+books,poetry book,6.99,in stock
+books,recipe book,14.99,in stock
+books,children's storybook,8.99,in stock
+books,atlas,19.99,in stock
+books,encyclopedia,29.99,out of stock
+books,biography,12.99,in stock
+books,mystery novel,10.99,in stock
+books,science fiction novel,11.99,in stock
+books,historical novel,13.99,out of stock
+books,travel guide,9.99,in stock
+sports,basketball,14.99,in stock
+sports,football,19.99,in stock
+sports,tennis racket,39.99,out of stock
+sports,baseball bat,24.99,in stock
+sports,skateboard,49.99,in stock
+sports,golf clubs,149.99,in stock
+sports,swimming goggles,9.99,in stock
+sports,cricket bat,69.99,out of stock
+sports,table tennis paddle,14.99,in stock
+sports,yoga mat,14.99,in stock
+sports,boxing gloves,29.99,in stock
+sports,hockey stick,39.99,in stock
+sports,helmet,24.99,out of stock
+sports,fitness tracker,99.99,in stock
+sports,jump rope,9.99,in stock
+sports,dumbbells,49.99,in stock
+sports,kettlebell,39.99,in stock
+sports,exercise bike,299.99,in stock
+sports,treadmill,599.99,out of stock
+sports,rowing machine,399.99,in stock
+automotive,tire,59.99,in stock
+automotive,car battery,99.99,out of stock
+automotive,car wax,8.99,in stock
+automotive,oil filter,14.99,in stock
+automotive,windshield wiper,9.99,in stock
+automotive,air freshener,3.99,out of stock
+automotive,car jack,24.99,in stock
+automotive,tool kit,39.99,in stock
+automotive,steering wheel cover,19.99,in stock
+automotive,car cover,49.99,out of stock
+automotive,engine oil,29.99,in stock
+automotive,spark plug,14.99,in stock
+automotive,fuel filter,19.99,in stock
+automotive,coolant,24.99,in stock
+automotive,brake fluid,14.99,in stock
+automotive,car mat,29.99,in stock
+automotive,seat cover,49.99,out of stock
+automotive,car wash kit,19.99,in stock
+automotive,repair manual,14.99,in stock
+automotive,car shampoo,9.99,in stock
+garden,shovel,19.99,in stock
+garden,rake,14.99,in stock
+garden,hoe,9.99,in stock
+garden,wheelbarrow,69.99,out of stock
+garden,gloves,7.99,in stock
+garden,plant pot,9.99,in stock
+garden,seeds,2.49,in stock
+garden,watering can,14.99,out of stock
+garden,hose,19.99,in stock
+garden,fertilizer,14.99,in stock
+garden,garden fork,12.99,in stock
+garden,pruning shears,14.99,in stock
+garden,compost bin,29.99,in stock
+garden,plant stand,19.99,in stock
+garden,soil tester,9.99,in stock
+garden,greenhouse,199.99,out of stock
+garden,orchid pot,6.99,in stock
+garden,garden light,14.99,in stock
+garden,leaf blower,49.99,in stock
+garden,sprinkler,29.99,out of stock
+grocery,cereal,4.99,in stock
+grocery,eggs,2.99,in stock
+grocery,sugar,3.49,in stock
+grocery,flour,2.89,out of stock
+grocery,coffee,5.99,in stock
+grocery,tea,4.49,in stock
+grocery,honey,6.99,out of stock
+grocery,jam,3.99,in stock
+grocery,olive oil,7.99,in stock
+grocery,vinegar,2.99,in stock
+grocery,ketchup,1.99,in stock
+grocery,mustard,1.49,out of stock
+grocery,salt,0.99,in stock
+grocery,pepper,1.49,in stock
+grocery,garlic,0.79,in stock
+grocery,ginger,1.29,in stock
+grocery,spinach,1.99,in stock
+grocery,cabbage,1.49,out of stock
+grocery,broccoli,1.99,in stock
+grocery,cauliflower,1.89,in stock
+electronics,gaming mouse,49.99,in stock
+electronics,headset,79.99,in stock
+electronics,power bank,39.99,in stock
+electronics,phone case,19.99,in stock
+electronics,usb drive,9.99,in stock
+electronics,memory card,14.99,in stock
+electronics,bluetooth speaker,59.99,in stock
+electronics,wifi extender,29.99,in stock
+electronics,keyboard and mouse combo,49.99,out of stock
+electronics,flashlight,19.99,in stock
+electronics,graphic card,299.99,in stock
+electronics,processor,399.99,out of stock
+electronics,motherboard,199.99,in stock
+electronics,ram,99.99,in stock
+electronics,external hard drive,149.99,in stock
+electronics,cooling pad,19.99,in stock
+electronics,stylus pen,29.99,in stock
+electronics,docking station,79.99,out of stock
+electronics,vr headset,249.99,in stock
+electronics,3d printer,499.99,in stock
+clothing,hooded jacket,49.99,in stock
+clothing,polo shirt,19.99,in stock
+clothing,sports shorts,24.99,in stock
+clothing,wool coat,69.99,in stock
+clothing,silk scarf,14.99,out of stock
+clothing,raincoat,39.99,in stock
+clothing,gloves,9.99,in stock
+clothing,beanie,12.99,in stock
+clothing,slacks,29.99,in stock
+clothing,cardigan,34.99,in stock
+clothing,vest,24.99,out of stock
+clothing,denim jacket,59.99,in stock
+clothing,overcoat,74.99,in stock
+clothing,running shoes,69.99,in stock
+clothing,ankle boots,49.99,out of stock
+clothing,loafers,39.99,in stock
+clothing,sandals,19.99,in stock
+clothing,ski pants,89.99,in stock
+clothing,swimsuit,29.99,in stock
+clothing,robe,24.99,out of stock
+stationery,sticky notes,1.99,in stock
+stationery,whiteboard markers,4.49,in stock
+stationery,drawing compass,5.99,in stock
+stationery,charcoal pencils,9.99,out of stock
+stationery,calligraphy pen,12.99,in stock
+stationery,sketch pad,6.99,in stock
+stationery,geometry box,7.99,in stock
+stationery,ink refills,3.99,in stock
+stationery,bookmarks,1.49,in stock
+stationery,organizer,14.99,in stock
+stationery,journal,11.99,in stock
+stationery,envelope seal,2.49,out of stock
+stationery,erasable pen,2.99,in stock
+stationery,clipboard with cover,7.99,in stock
+stationery,laminating sheets,9.99,in stock
+stationery,staple remover,1.49,in stock
+stationery,magnetic clips,3.49,in stock
+stationery,art brush set,12.99,out of stock
+stationery,bullet journal,14.99,in stock
+stationery,ruler set,4.99,in stock
+home decor,wall clock,39.99,in stock
+home decor,throw blanket,29.99,in stock
+home decor,ottoman chair,89.99,in stock
+home decor,wall hanging,19.99,out of stock
+home decor,window blinds,49.99,in stock
+home decor,floor lamp,59.99,in stock
+home decor,flower vase,19.99,in stock
+home decor,photo album,14.99,in stock
+home decor,area rug,99.99,out of stock
+home decor,decorative mirror,39.99,in stock
+home decor,bedside lamp,29.99,in stock
+home decor,coffee table,149.99,in stock
+home decor,sofa bed,199.99,in stock
+home decor,storage basket,14.99,in stock
+home decor,wall shelf,24.99,in stock
+home decor,bean bag,49.99,out of stock
+home decor,candlestick,9.99,in stock
+home decor,storage box,19.99,in stock
+home decor,wooden frame,29.99,in stock
+home decor,ceiling fan,149.99,out of stock
+toys,teddy bear,19.99,in stock
+toys,race car,14.99,in stock
+toys,dollhouse,99.99,in stock
+toys,action hero,24.99,in stock
+toys,stuffed tiger,17.99,out of stock
+toys,wooden train,29.99,in stock
+toys,play kitchen,149.99,in stock
+toys,bouncing ball,2.99,in stock
+toys,fidget spinner,4.99,in stock
+toys,jump rope,6.99,out of stock
+toys,skateboard,59.99,in stock
+toys,kite set,14.99,in stock
+toys,magic set,24.99,in stock
+toys,model airplane,39.99,in stock
+toys,foam sword,9.99,in stock
+toys,bubble maker,5.99,out of stock
+toys,sandcastle kit,19.99,in stock
+toys,game controller,39.99,in stock
+toys,robotic arm,149.99,in stock
+toys,interactive toy,99.99,out of stock
+books,classic novel,14.99,in stock
+books,thriller book,11.99,in stock
+books,autobiography,16.99,in stock
+books,children’s book,8.99,in stock
+books,comic strip,5.99,in stock
+books,encyclopedia set,79.99,out of stock
+books,memoir,13.99,in stock
+books,crime novel,10.99,in stock
+books,philosophy book,12.99,in stock
+books,travel memoir,14.99,in stock
+books,guide to cooking,9.99,in stock
+books,self-help book,12.99,out of stock
+books,fantasy novel,14.99,in stock
+books,young adult novel,10.99,in stock
+books,spiritual book,13.99,in stock
+books,art book,29.99,out of stock
+books,history textbook,24.99,in stock
+books,science manual,22.99,in stock
+books,poetry collection,8.99,in stock
+books,literary fiction,14.99,in stock
+sports,soccer ball,19.99,in stock
+sports,running shoes,79.99,in stock
+sports,swim cap,6.99,in stock
+sports,training mat,19.99,in stock
+sports,table tennis net,9.99,out of stock
+sports,ski poles,49.99,in stock
+sports,climbing rope,69.99,in stock
+sports,fishing rod,39.99,in stock
+sports,water bottle,14.99,in stock
+sports,knee pads,19.99,in stock
+sports,sports watch,99.99,out of stock
+sports,weights set,199.99,in stock
+sports,yoga block,9.99,in stock
+sports,cycling helmet,29.99,in stock
+sports,ping pong balls,4.99,in stock
+sports,softball glove,24.99,in stock
+sports,badminton racket,19.99,out of stock
+sports,archery set,149.99,in stock
+sports,roller skates,69.99,in stock
+sports,hiking stick,29.99,in stock
+automotive,socket set,29.99,in stock
+automotive,led headlights,39.99,in stock
+automotive,car vacuum,59.99,in stock
+automotive,floor mats,24.99,out of stock
+automotive,battery charger,89.99,in stock
+automotive,air compressor,49.99,in stock
+automotive,car organizer,19.99,in stock
+automotive,car camera,99.99,in stock
+automotive,emergency kit,29.99,in stock
+automotive,hand cleaner,4.99,out of stock
+automotive,brake pads,39.99,in stock
+automotive,oil pump,24.99,in stock
+automotive,rubber gloves,6.99,in stock
+automotive,headlight polish,8.99,in stock
+automotive,parking sensor,49.99,in stock
+automotive,wheel brush,9.99,out of stock
+automotive,tire inflator,39.99,in stock
+automotive,cargo net,14.99,in stock
+automotive,bumper guard,19.99,in stock
+automotive,trunk mat,29.99,in stock
+garden,garden hose,19.99,in stock
+garden,seedling tray,9.99,in stock
+garden,spray bottle,4.99,in stock
+garden,trowel,7.99,out of stock
+garden,plant food,19.99,in stock
+garden,water pump,29.99,in stock
+garden,tree pruner,24.99,in stock
+garden,garden shovel,14.99,in stock
+garden,bug spray,5.99,in stock
+garden,solar light,9.99,out of stock
+garden,watering wand,14.99,in stock
+garden,mini greenhouse,59.99,in stock
+garden,hedge trimmer,49.99,in stock
+garden,plant marker,2.99,in stock
+garden,root stimulator,19.99,in stock
+garden,weed puller,12.99,out of stock
+garden,flower pot,9.99,in stock
+garden,plant fertilizer,19.99,in stock
+garden,lawn mower,199.99,in stock
+garden,sickle,14.99,in stock
+grocery,oatmeal,3.99,in stock
+grocery,pasta,2.49,in stock
+grocery,rice,3.99,out of stock
+grocery,cornflakes,4.99,in stock
+grocery,soup,1.99,in stock
+grocery,canned beans,2.99,in stock
+grocery,chocolate bar,1.49,in stock
+grocery,peanut butter,3.49,in stock
+grocery,granola bar,2.49,out of stock
+grocery,crackers,1.99,in stock
+grocery,baking powder,0.99,in stock
+grocery,vanilla extract,4.99,out of stock
+grocery,coconut oil,6.99,in stock
+grocery,salsa,2.99,in stock
+grocery,tortilla chips,3.49,in stock
+grocery,popcorn,1.99,in stock
+grocery,canned tuna,3.49,out of stock
+grocery,syrup,4.49,in stock
+grocery,almond milk,2.99,in stock
+grocery,cereal bar,3.99,in stock
+electronics,smart tv,799.99,in stock
+electronics,wireless charger,29.99,in stock
+electronics,smart speaker,99.99,in stock
+electronics,bluetooth headphones,49.99,in stock
+electronics,fitness watch,199.99,out of stock
+electronics,vr controller,299.99,in stock
+electronics,digital camera,399.99,in stock
+electronics,external monitor,149.99,in stock
+electronics,noise-cancelling headphones,199.99,in stock
+electronics,tablet stand,19.99,in stock
+electronics,wifi router,49.99,in stock
+electronics,portable projector,249.99,out of stock
+electronics,usb hub,19.99,in stock
+electronics,webcam cover,9.99,in stock
+electronics,mechanical keyboard,79.99,in stock
+electronics,graphics tablet,299.99,in stock
+electronics,hdmi cable,9.99,in stock
+electronics,phone mount,14.99,in stock
+electronics,smart plug,24.99,out of stock
+electronics,mini fridge,129.99,in stock
+clothing,leather jacket,89.99,in stock
+clothing,cargo pants,34.99,in stock
+clothing,sweatpants,29.99,in stock
+clothing,athletic shoes,79.99,in stock
+clothing,winter coat,99.99,out of stock
+clothing,rain boots,49.99,in stock
+clothing,thermal socks,14.99,in stock
+clothing,wool sweater,59.99,in stock
+clothing,summer dress,39.99,in stock
+clothing,cardigan sweater,49.99,in stock
+clothing,hiking boots,89.99,out of stock
+clothing,denim shorts,24.99,in stock
+clothing,puffer jacket,119.99,in stock
+clothing,track jacket,44.99,in stock
+clothing,knit scarf,14.99,out of stock
+clothing,sports bra,24.99,in stock
+clothing,running tights,34.99,in stock
+clothing,ski jacket,129.99,in stock
+clothing,silk robe,39.99,in stock
+clothing,leggings,29.99,out of stock
+stationery,paintbrush set,14.99,in stock
+stationery,writing pad,2.99,in stock
+stationery,watercolor set,9.99,in stock
+stationery,erasable marker,4.99,out of stock
+stationery,permanent marker,1.99,in stock
+stationery,doodle book,3.99,in stock
+stationery,glue stick,0.99,in stock
+stationery,craft scissors,4.99,in stock
+stationery,index cards,2.49,in stock
+stationery,sticky tape,1.99,in stock
+stationery,pencil sharpener,1.49,out of stock
+stationery,ink bottle,9.99,in stock
+stationery,clipboard file,4.99,in stock
+stationery,protractor,1.99,in stock
+stationery,drawing tablet,199.99,in stock
+stationery,dry erase board,29.99,in stock
+stationery,erasable highlighter,2.99,out of stock
+stationery,bullet marker,3.49,in stock
+stationery,grid notebook,3.99,in stock
+stationery,calligraphy brush,9.99,in stock
+home decor,night lamp,19.99,in stock
+home decor,decorative pillow,14.99,in stock
+home decor,vanity mirror,29.99,in stock
+home decor,cabinet,149.99,in stock
+home decor,hallway runner,59.99,out of stock
+home decor,bookshelf stand,129.99,in stock
+home decor,canvas print,49.99,in stock
+home decor,table lamp,24.99,in stock
+home decor,decorative plant,19.99,out of stock
+home decor,wall decor,29.99,in stock
+home decor,round rug,79.99,in stock
+home decor,candlestick holder,14.99,in stock
+home decor,photo wall frame,24.99,in stock
+home decor,storage unit,99.99,out of stock
+home decor,ottoman sofa,199.99,in stock
+home decor,dining table,249.99,in stock
+home decor,floor rug,129.99,in stock
+home decor,table runner,19.99,in stock
+home decor,wall clock,39.99,out of stock
+home decor,ceiling light,149.99,in stock
+
+
+
